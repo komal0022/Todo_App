@@ -1,0 +1,13 @@
+body{
+    background-color: lightpink
+}
+#container{
+   background-color: aliceblue;
+   height: 100%;
+   width: 50%;
+   padding: 10px;
+   margin: auto;
+   margin-top: 100px;
+   border-radius: 1rem;
+   font-size: larger;
+}
